@@ -1,6 +1,6 @@
 :root {
     --warna-utama: #f5f5f5;
-    --warna-begron: #C6C8FF;
+    --warna-begron: #4F709C;
     --warna-kedua: #505050;
     --warna-kehitaman: #404040;
     --warna-biru: #8EACCD;
@@ -381,7 +381,7 @@ section {
 @media only screen and (max-width: 600px) {
 
     #home {
-        background-image: url(../assets/bgmobile.png);
+        background-image: url(../assets/bg2.jpg);
     }
 
     * {
