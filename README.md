@@ -1,16 +1,23 @@
-# Free-Portofolio-Website
-Hello i want to share free portofolio website source code. use for learn. Give me your stars. Don't forget to follow my github profile. Thank you >_<;
+# Tugas MPM
+Tujuan dibuatnya repository ini adalah untuk menyelesaikan Tugas Git Mata Kuliah Metode Pemrograman Modern kelompok kami dengan membuat sebuah proyek kecil untuk dikerjakan bersama. 
 
-# Hi there 👋 , I'm Wafa Rifki Anafin!
-Website Designer & Frontend Developer from indonesia.
+Proyek yang kami buat adalah sebuah aplikasi portofolio berbasis web sederhana.
 
-# Demo
-<a href="https://wafarifki.github.io/Free-Portofolio-Website/">https://wafarifki.github.io/Free-Portofolio-Website/</a>
 
-# Let's connect with me!
+# Anggota Kelompok
+Berikut adalah anggota- anggota dari kelompok :
+- Aldyn Aditya Majid Arrasyid --- 21060120110045
+- Ali Ridho --- 21060120130112
+- Fajrul Kamal --- 21060120130082
+- Lukman Sanusi --- 21060120130140
+- Steven Ardi Christanto --- 21060120130069
+
+
+# Our Linkedin
 <p>
-    <a href="https://wafarifki.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-https://wafarifki.github.io-blue?" /></a>
-    <a href="https://www.linkedin.com/in/wafa-rifqi-anafin-553b591b7/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-WafaRifkiAnafin_-blue" /></a>
-    <a href="https://facebook.com/wafarifkianafin" target="_blank"><img src="https://img.shields.io/badge/Facebook-wafarifkianafin-blue" /></a>
-    <a href="https://instagram.com/wafarifki_" target="_blank"><img src="https://img.shields.io/badge/Instagram-@wafarifki_-blue" /></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Linkedin - Aldyn Aditya Majid Arrasyid -blue?" /></a><br>
+    <a href="https://www.linkedin.com/in/ridhoalias/" target="_blank"><img src="https://img.shields.io/badge/Linkedin - Ali Ridho-blue?" /></a><br>
+        <a href="https://www.linkedin.com/in/fajrul-kamal-9a1038230" target="_blank"><img src="https://img.shields.io/badge/Linkedin - Fajrul Kamal-blue?" /></a><br>
+            <a href="https://id.linkedin.com/in/lukman-sanusi-35b168176" target="_blank"><img src="https://img.shields.io/badge/Linkedin - Lukman Sanusi-blue?" /></a><br>
+                <a href="https://www.linkedin.com/in/steven-ardi-christanto-398539272/" target="_blank"><img src="https://img.shields.io/badge/Linkedin - Steven Ardi Christanto-blue?" /></a> 
 </p>
