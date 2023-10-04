@@ -3,7 +3,7 @@
     --warna-begron: #C6C8FF;
     --warna-kedua: #505050;
     --warna-kehitaman: #404040;
-    --warna-biru: #C6C8FF;
+    --warna-biru: #8EACCD;
 }
 
 * {
@@ -142,7 +142,7 @@ section {
 }
 
 .bagiankhusus p {
-    color: #f5f5f5;
+    color: var(--warna-kehitaman);
 }
 
 #tentang img {
